@@ -1,0 +1,14 @@
+{
+  "title": "Ethereum Scalability Solution",
+  "root": true,
+  "pages": [
+    "index",
+    "ethereum",
+    "cross-chain",
+    "side",
+    "eth2",
+    "l2bridge",
+    "rollups",
+    "appendix"
+  ]
+}

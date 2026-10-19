@@ -1,0 +1,9 @@
+{
+  "title": "Liquidity Protocol / Staking / Farm Yield",
+  "pages": [
+    "aave",
+    "compound",
+    "yearn",
+    "diamond"
+  ]
+}

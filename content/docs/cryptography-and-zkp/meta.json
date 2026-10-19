@@ -1,0 +1,10 @@
+{
+  "title": "Cryptography & ZKP",
+  "root": true,
+  "pages": [
+    "index",
+    "crypto",
+    "zkp",
+    "appendix"
+  ]
+}

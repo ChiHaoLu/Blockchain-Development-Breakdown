@@ -1,0 +1,18 @@
+{
+  "title": "Smart contract Security & Foundry Testing",
+  "root": true,
+  "pages": [
+    "index",
+    "smart-contract-testing",
+    "foundry",
+    "defi-lec",
+    "hack",
+    "defihack",
+    "consensys",
+    "ethernaut",
+    "damn",
+    "dasp",
+    "ctf2021",
+    "defihack-2"
+  ]
+}

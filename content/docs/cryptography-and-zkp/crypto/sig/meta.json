@@ -1,0 +1,9 @@
+{
+  "title": "✅ Signature Algorithms",
+  "pages": [
+    "index",
+    "ecdsa",
+    "eddsa",
+    "bls"
+  ]
+}

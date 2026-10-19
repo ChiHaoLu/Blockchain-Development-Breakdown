@@ -1,0 +1,11 @@
+{
+  "title": "DEX",
+  "pages": [
+    "uniswap",
+    "curve",
+    "solidly",
+    "balancer",
+    "dydx",
+    "xmm"
+  ]
+}

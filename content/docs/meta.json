@@ -1,0 +1,4 @@
+{
+  "title": "Blockchain Development Breakdown",
+  "pages": ["index", "cryptography-and-zkp", "defi-development-breakdown", "ethereum-layer2", "contract-security"]
+}

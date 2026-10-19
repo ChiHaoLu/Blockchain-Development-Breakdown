@@ -1,0 +1,14 @@
+{
+  "title": "DeFi Development Breakdown",
+  "root": true,
+  "pages": [
+    "index",
+    "dex",
+    "derivatives-synthetic-assets-indices-options",
+    "liquidity-protocol-staking-farm-yield",
+    "stable-coin",
+    "ethereum-2-0-staking",
+    "analytics",
+    "hack"
+  ]
+}

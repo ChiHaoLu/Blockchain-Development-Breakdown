@@ -1,0 +1,14 @@
+{
+  "title": "ETH2.0",
+  "pages": [
+    "index",
+    "pos",
+    "dpos",
+    "casper",
+    "sharding-rollup",
+    "beacon",
+    "merge",
+    "cl-el",
+    "aa"
+  ]
+}
