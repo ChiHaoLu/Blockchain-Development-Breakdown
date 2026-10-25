@@ -1,15 +1,5 @@
 # Blockchain Development Breakdown
 
-A [Fumadocs](https://fumadocs.dev) site that collects blockchain development notes in one place:
-
-| Book | Content dir | Original |
-| --- | --- | --- |
-| Cryptography & ZKP | `content/docs/cryptography-and-zkp` | https://cryptography-and-zkp.web.app |
-| DeFi Development Breakdown | `content/docs/defi-development-breakdown` | https://defi-development-breakdown.web.app |
-| Ethereum Scalability Solution | `content/docs/ethereum-layer2` | https://ethereum-layer2.web.app |
-| Smart Contract Security & Foundry Testing | `content/docs/contract-security` | https://contract-security.web.app |
-| Blockchain with SWD | `content/docs/blockchain-with-swd` | — |
-
 ## Development
 
 ```bash
