@@ -1,6 +1,6 @@
 # Blockchain Development Breakdown
 
-A [Fumadocs](https://fumadocs.dev) site that collects four mdBook notes in one place:
+A [Fumadocs](https://fumadocs.dev) site that collects blockchain development notes in one place:
 
 | Book | Content dir | Original |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ A [Fumadocs](https://fumadocs.dev) site that collects four mdBook notes in one p
 | DeFi Development Breakdown | `content/docs/defi-development-breakdown` | https://defi-development-breakdown.web.app |
 | Ethereum Scalability Solution | `content/docs/ethereum-layer2` | https://ethereum-layer2.web.app |
 | Smart Contract Security & Foundry Testing | `content/docs/contract-security` | https://contract-security.web.app |
+| Blockchain with SWD | `content/docs/blockchain-with-swd` | — |
 
 ## Development
 
