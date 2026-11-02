@@ -1,5 +1,5 @@
 {
   "title": "Blockchain with SWD",
   "root": true,
-  "pages": ["index", "db", "dsa", "devops"]
+  "pages": ["index", "db", "dsa", "os", "devops"]
 }

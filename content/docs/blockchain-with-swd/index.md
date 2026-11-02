@@ -10,4 +10,5 @@ title: "Introduction"
 
 - [DB](./db/blockchain-vs-database.md)：區塊鏈跟一般資料庫的異同
 - [DSA](./dsa/safe-sorted-signatures-and-cll.md)：區塊鏈開發中用到的資料結構與演算法
+- [OS](./os/risc-and-zk.md)：ISA、zkVM 與電路的關係
 - [DevOps](./devops/local-infra-testnet.md)：本地測試鏈、Docker 與 CI/CD
